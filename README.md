@@ -9,3 +9,4 @@ console.log(checkEmptyObj(null)); // false
 console.log(checkEmptyObj([])); // false
 console.log(checkEmptyObj(123)); // false
 ```
+Rattanon Tunwittaya 
